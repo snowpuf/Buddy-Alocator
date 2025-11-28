@@ -11,3 +11,6 @@ utilizei arvores binarias como a estrutura principal
 os blocos sao modelados de maniera simples ( livre, ocupado, dividido)
 potencia de 2 foi utilizada para os blocos
 escolhi a alocacao first fit dando preferencia pro filho esquerdo
+
+
+LINK DO VIDEO : https://youtu.be/KmS8PquGz84
